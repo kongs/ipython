@@ -13,3 +13,5 @@ build
 *~
 *.bak
 .tox
+
+/.idea/
